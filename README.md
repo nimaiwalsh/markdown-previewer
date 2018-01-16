@@ -1,4 +1,4 @@
-# Weather App with 5 day forcast
+# Markdown Previewer
 
 ## Finished project
 https://nimaiwalsh.github.io/markdown-previewer
